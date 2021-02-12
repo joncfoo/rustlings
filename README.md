@@ -1,5 +1,5 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-72-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-76-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 # rustlings 🦀❤️
@@ -249,6 +249,12 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/seancad"><img src="https://avatars1.githubusercontent.com/u/47405611?v=4?s=100" width="100px;" alt=""/><br /><sub><b>seancad</b></sub></a><br /><a href="#maintenance-seancad" title="Maintenance">🚧</a></td>
     <td align="center"><a href="http://willhayworth.com"><img src="https://avatars3.githubusercontent.com/u/181174?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Will Hayworth</b></sub></a><br /><a href="#content-wsh" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/chrizel"><img src="https://avatars3.githubusercontent.com/u/20802?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Christian Zeller</b></sub></a><br /><a href="#content-chrizel" title="Content">🖋</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/jfchevrette"><img src="https://avatars.githubusercontent.com/u/3001?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jean-Francois Chevrette</b></sub></a><br /><a href="#content-jfchevrette" title="Content">🖋</a> <a href="https://github.com/rust-lang/rustlings/commits?author=jfchevrette" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/jbaber"><img src="https://avatars.githubusercontent.com/u/1908117?v=4?s=100" width="100px;" alt=""/><br /><sub><b>John Baber-Lucero</b></sub></a><br /><a href="#content-jbaber" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/tal-zvon"><img src="https://avatars.githubusercontent.com/u/3195851?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Tal</b></sub></a><br /><a href="#content-tal-zvon" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/apogeeoak"><img src="https://avatars.githubusercontent.com/u/59737221?v=4?s=100" width="100px;" alt=""/><br /><sub><b>apogeeoak</b></sub></a><br /><a href="#content-apogeeoak" title="Content">🖋</a> <a href="https://github.com/rust-lang/rustlings/commits?author=apogeeoak" title="Code">💻</a></td>
   </tr>
 </table>
 
